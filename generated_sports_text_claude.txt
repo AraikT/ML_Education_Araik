@@ -25,3 +25,16 @@
 {"ru": "В ночь на 23 апреля (мск) прошел второй матч первого раунда плей-офф НХЛ «Бостон Брюинз» — «Торонто Мэйпл Лифс»", "en": "On the night of April 23rd (Moscow time), the second game of the first round of the NHL playoffs between the Boston Bruins and the Toronto Maple Leafs took place."}
 {"ru": "Встреча завершилась победой «Мэйпл Лифс» со счетом 3:2.", "en": "The meeting ended with a 3:2 victory for the Maple Leafs."}
 {"ru": "Автором победной шайбы стал Остон Мэттьюс, одним из ассистентов стал Илья Любушкин", "en": "The author of the game-winning goal was Auston Matthews, with Ilya Lyubushkin being one of the assistants."}
+
+{"ru": "В ночь на 23 апреля (мск) прошел второй матч первого раунда плей-офф НХЛ «Каролина Харрикейнз» — «Нью-Йорк Айлендерс»", "en": "On the night of April 23 (Moscow time), the second game of the first round of the NHL playoffs between the Carolina Hurricanes and the New York Islanders took place."}
+{"ru": "Встреча завершилась волевой победой «ураганов» со счетом 5:3.", "en": "The meeting ended with a hard-fought 5:3 victory for the \"Hurricanes\"."}
+{"ru": "В концовке матча «Каролина» сперва сравняла счет благодаря голу Себастьяна Ахо, а через 9 секунд Джордан Мартинук забросил победную шайбу", "en": "At the end of the match, Carolina first tied the score thanks to a goal by Sebastian Aho, and just 9 seconds later Jordan Martinook scored the winning goal."}
+{"ru": "Спустя еще 70 секунд Джейк Гюнцель отправил шайбу в пустые ворота", "en": "Seventy seconds later, Jake Guentzel scored into the empty net."}
+{"ru": "Первые два гола забили Теуво Терявяйнен и Сет Джарвис", "en": "Teuvo Teravainen and Seth Jarvis scored the first two goals."}
+{"ru": "На счету Андрея Свечникова два ассиста, Дмитрий Орлов и Евгений Кузнецов очков не набрали", "en": "Andrei Svechnikov recorded two assists, while Dmitry Orlov and Evgeny Kuznetsov did not register any points."}
+{"ru": "Голкипер Петр Кочетков участие в матче не принимал.", "en": "Goalkeeper Pyotr Kochetkov did not take part in the match."}
+{"ru": "У «островитян» отличились Кайл Палмьери, Бо Хорват и Андерс Ли", "en": "Kyle Palmieri, Bo Horvat and Anders Lee scored for the Islanders."}
+{"ru": "Вратарь Семен Варламов совершил 34 сэйва, защитник Александр Романов результативными действиями не отличился.", "en": "Goaltender Semyon Varlamov made 34 saves, while defenseman Alexander Romanov did not record any points."}
+{"ru": "Счет в серии стал 2-0 в пользу «Каролины»", "en": "The series score became 2-0 in favor of Carolina."}
+{"ru": "Следующий матч состоится 26 апреля, начало — в 02:30 мск.", "en": "The next match will take place on April 26th, with the start at 02:30 Moscow time."}
+{"ru": "В ночь на 23 апреля (мск) прошел второй матч первого раунда плей-офф НХЛ «Бостон Брюинз» — «Торонто Мэйпл Лифс»", "en": "In the night of April 23rd (Moscow time), the second game of the first round of the NHL playoffs between the Boston Bruins and the Toronto Maple Leafs took place."}
