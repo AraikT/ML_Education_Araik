@@ -47,3 +47,14 @@
 {"ru": "Нападающие Сергей Плотников, Михаил Григоренко, Андрей Светлаков и Антон Слепышев, а также защитник Даррен Диц не останутся в ЦСКА на сезон-2024/25", "en": "Forwards Sergei Plotnikov, Mikhail Grigorenko, Andrei Svetlakov and Anton Slepyshev, as well as defenseman Darren Dietz will not remain with CSKA for the 2024/25 season."}
 {"ru": "Об этом на пресс-конференции во вторник сообщил президент армейского клуба Игорь Есмантович.", "en": "\"This was announced at a press conference on Tuesday by the president of the army club, Igor Yesmantovich.\""}
 {"ru": "В текущем сезоне ЦСКА завершил борьбу за Кубок Гагарина на первой же стадии плей-офф, уступив в серии «Локомотиву» (1-4).", "en": "In the current season, CSKA ended their fight for the Gagarin Cup in the very first stage of the playoffs, losing the series to Lokomotiv (1-4)."}
+
+{"ru": "В Канаде завершился второй матч серии 1/8 финала Кубка Стэнли, в котором «Виннипег» дома уступил «Колорадо».", "en": "The second match of the Stanley Cup first round series has concluded in Canada, in which Winnipeg lost at home to Colorado."}
+{"ru": "В составе победителей самым результативным хоккеистом стал Арттури Лехконен, набравший 2 (1+1) очка", "en": "Artturi Lehkonen was the top scorer on the winning team, tallying 2 (1+1) points."}
+{"ru": "Его партнер Валерий Ничушкин отметился голом в пустые ворота.", "en": "His partner Valeri Nichushkin scored a goal into the empty net."}
+{"ru": "Голкипер «Эвеланш» Александр Георгиев отразил 28 бросков соперника из 30.", "en": "Colorado Avalanche goaltender Alexander Georgiev stopped 28 out of 30 shots he faced from the opposing team."}
+{"ru": "Благодаря этой победе «Колорадо» сравнял счет в серии (1-1)", "en": "\"Thanks to this victory, Colorado tied the series (1-1)\""}
+{"ru": "Третья игра противостояния состоится 27 апреля.", "en": "The third game of the matchup will take place on April 27."}
+{"ru": "«Флорида» победила на своем льду «Тампа-Бэй» во втором матче 1/8 финала Кубка Стэнли со счетом 3:2 в овертайме.", "en": "The Florida Panthers defeated the Tampa Bay Lightning 3-2 in overtime on home ice in the second game of the first round of the Stanley Cup playoffs."}
+{"ru": "Одну из шайб в составе «Пантерз» забросил нападающий Владимир Тарасенко, а нападающий «Лайтнинг» Никита Кучеров сделал 1 ассист.", "en": "Vladimir Tarasenko, a forward for the Panthers, scored one of the goals, while Nikita Kucherov, a forward for the Lightning, recorded one assist."}
+{"ru": "Он сделал 21 сэйв из 23 бросков", "en": "He made 21 saves out of 23 shots"}
+{"ru": "Один из спасений россиянина получился очень эффектным, когда Бобровский спас команду от гола, прыгну в пустые ворота.", "en": "One of the Russian's saves turned out to be very spectacular when Bobrovsky saved the team from a goal by diving into the empty net."}
