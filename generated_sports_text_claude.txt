@@ -58,3 +58,13 @@
 {"ru": "Одну из шайб в составе «Пантерз» забросил нападающий Владимир Тарасенко, а нападающий «Лайтнинг» Никита Кучеров сделал 1 ассист.", "en": "Vladimir Tarasenko, a forward for the Panthers, scored one of the goals, while Nikita Kucherov, a forward for the Lightning, recorded one assist."}
 {"ru": "Он сделал 21 сэйв из 23 бросков", "en": "He made 21 saves out of 23 shots"}
 {"ru": "Один из спасений россиянина получился очень эффектным, когда Бобровский спас команду от гола, прыгну в пустые ворота.", "en": "One of the Russian's saves turned out to be very spectacular when Bobrovsky saved the team from a goal by diving into the empty net."}
+
+{"ru": "В Канаде завершился второй матч серии 1/8 финала Кубка Стэнли, в котором «Виннипег» дома уступил «Колорадо».", "en": "In Canada, the second game of the Stanley Cup first round series has concluded, in which Winnipeg lost at home to Colorado."}
+{"ru": "В составе победителей самым результативным хоккеистом стал Арттури Лехконен, набравший 2 (1+1) очка", "en": "Artturi Lehkonen became the top scorer for the winning team, scoring 2 (1+1) points."}
+{"ru": "Его партнер Валерий Ничушкин отметился голом в пустые ворота.", "en": "His partner Valeri Nichushkin scored a goal on the empty net."}
+{"ru": "Голкипер «Эвеланш» Александр Георгиев отразил 28 бросков соперника из 30.", "en": "Colorado Avalanche goaltender Alexander Georgiev made 28 saves on 30 shots by the opponent."}
+{"ru": "Благодаря этой победе «Колорадо» сравнял счет в серии (1-1)", "en": "Thanks to this victory, Colorado evened the series score at 1-1."}
+{"ru": "Третья игра противостояния состоится 27 апреля.", "en": "The third game of the matchup will take place on April 27."}
+{"ru": "«Флорида» победила на своем льду «Тампа-Бэй» во втором матче 1/8 финала Кубка Стэнли со счетом 3:2 в овертайме.", "en": "The Florida Panthers defeated the Tampa Bay Lightning 3-2 in overtime on home ice in the second game of the first round of the Stanley Cup playoffs."}
+{"ru": "Одну из шайб в составе «Пантерз» забросил нападающий Владимир Тарасенко, а нападающий «Лайтнинг» Никита Кучеров сделал 1 ассист.", "en": "One of the goals for the Panthers was scored by forward Vladimir Tarasenko, while Lightning forward Nikita Kucherov had 1 assist."}
+{"ru": "Одним из героев встречи стал российский голкипер «Флориды» Сергей Бобровский", "en": "One of the heroes of the match was Florida's Russian goaltender Sergei Bobrovsky."}
