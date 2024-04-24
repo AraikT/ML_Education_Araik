@@ -68,3 +68,13 @@
 {"ru": "«Флорида» победила на своем льду «Тампа-Бэй» во втором матче 1/8 финала Кубка Стэнли со счетом 3:2 в овертайме.", "en": "The Florida Panthers defeated the Tampa Bay Lightning 3-2 in overtime on home ice in the second game of the first round of the Stanley Cup playoffs."}
 {"ru": "Одну из шайб в составе «Пантерз» забросил нападающий Владимир Тарасенко, а нападающий «Лайтнинг» Никита Кучеров сделал 1 ассист.", "en": "One of the goals for the Panthers was scored by forward Vladimir Tarasenko, while Lightning forward Nikita Kucherov had 1 assist."}
 {"ru": "Одним из героев встречи стал российский голкипер «Флориды» Сергей Бобровский", "en": "One of the heroes of the match was Florida's Russian goaltender Sergei Bobrovsky."}
+
+{"ru": "В Канаде завершился второй матч серии 1/8 финала Кубка Стэнли, в котором «Виннипег» дома уступил «Колорадо».", "en": "In Canada, the second match of the 1/8 finals series of the Stanley Cup has ended, in which Winnipeg lost to Colorado at home."}
+{"ru": "В составе победителей самым результативным хоккеистом стал Арттури Лехконен, набравший 2 (1+1) очка", "en": "Artturi Lehkonen became the top scorer among the winners, earning 2 (1+1) points."}
+{"ru": "Его партнер Валерий Ничушкин отметился голом в пустые ворота.", "en": "His partner Valeri Nichushkin scored an empty net goal."}
+{"ru": "Голкипер «Эвеланш» Александр Георгиев отразил 28 бросков соперника из 30.", "en": "Alexander Georgiev, the goaltender for the Colorado Avalanche, stopped 28 out of 30 shots by the opposing team."}
+{"ru": "Благодаря этой победе «Колорадо» сравнял счет в серии (1-1)", "en": "Thanks to this victory, the Colorado Avalanche tied the series at 1-1."}
+{"ru": "Третья игра противостояния состоится 27 апреля.", "en": "The third game of the matchup will take place on April 27."}
+{"ru": "«Флорида» победила на своем льду «Тампа-Бэй» во втором матче 1/8 финала Кубка Стэнли со счетом 3:2 в овертайме.", "en": "\"Florida defeated Tampa Bay 3:2 in overtime on home ice in the second game of the Stanley Cup first round series.\""}
+{"ru": "Одну из шайб в составе «Пантерз» забросил нападающий Владимир Тарасенко, а нападающий «Лайтнинг» Никита Кучеров сделал 1 ассист.", "en": "\"One of the goals for the Panthers was scored by forward Vladimir Tarasenko, while Lightning forward Nikita Kucherov had 1 assist.\""}
+{"ru": "Одним из героев встречи стал российский голкипер «Флориды» Сергей Бобровский", "en": "Sergei Bobrovsky, the Russian goaltender for the Florida Panthers, was one of the standout players in the game. Bobrovsky's stellar performance between the pipes played a crucial role in his team's success on the ice."}
