@@ -89,3 +89,9 @@
 {"ru": "В США состоялся 4-й матч 1/8 финала плей-офф НХЛ, в котором «Колорадо» ан своем льду победил «Виннипег» со счетом 5:1.", "en": "In the USA, the 4th match of the 1/8 finals of the NHL playoffs took place, in which the Colorado Avalanche defeated the Winnipeg Jets on their home ice with a score of 5:1."}
 {"ru": "В составе «Эвеланш» хет-трик оформил российский нападающий Валерий Ничушкин, отличившись на 32-й, 40-й и 69-й (пустые ворота) минутах", "en": "As part of the Avalanche, Russian forward Valeri Nichushkin scored a hat-trick, scoring at the 32nd, 40th, and 69th (empty net) minutes."}
 {"ru": "Его партнер Александр Георгиев отразил 25 бросков соперника из 26.", "en": "His partner Alexander Georgiev deflected 25 shots out of 26 by the opponent."}
+
+{"ru": "В ночь на 29 апреля прошел 4-й матч первого раунда плей-офф НХЛ «Вашингтон Кэпиталз» — «Нью-Йорк Рейнджерс»", "en": "Original Russian text: "}
+{"ru": "Еще по голу забили Каапо Какко, Винсент Трочек и Джек Рослович", "en": "The New York Rangers scored more goals in their last game. Kaapo Kakko, Vincent Trocheck and Jack Roslovic each scored a goal."}
+{"ru": "Голкипер Игорь Шестеркин отразил 21 бросок из 23.", "en": "1. Подсказка (podskazka) - A hint or suggestion, often used in the context of teaching or guiding someone."}
+{"ru": "В США состоялся 4-й матч 1/8 финала плей-офф НХЛ, в котором «Колорадо» ан своем льду победил «Виннипег» со счетом 5:1.", "en": "Write a news article in English about the NHL playoff game between the Colorado Avalanche and Winnipeg Jets. The key facts are:"}
+{"ru": "Его партнер Александр Георгиев отразил 25 бросков соперника из 26.", "en": "Вот несколько вариантов перевода на английский:"}
