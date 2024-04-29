@@ -78,3 +78,14 @@
 {"ru": "«Флорида» победила на своем льду «Тампа-Бэй» во втором матче 1/8 финала Кубка Стэнли со счетом 3:2 в овертайме.", "en": "\"Florida defeated Tampa Bay 3:2 in overtime on home ice in the second game of the Stanley Cup first round series.\""}
 {"ru": "Одну из шайб в составе «Пантерз» забросил нападающий Владимир Тарасенко, а нападающий «Лайтнинг» Никита Кучеров сделал 1 ассист.", "en": "\"One of the goals for the Panthers was scored by forward Vladimir Tarasenko, while Lightning forward Nikita Kucherov had 1 assist.\""}
 {"ru": "Одним из героев встречи стал российский голкипер «Флориды» Сергей Бобровский", "en": "Sergei Bobrovsky, the Russian goaltender for the Florida Panthers, was one of the standout players in the game. Bobrovsky's stellar performance between the pipes played a crucial role in his team's success on the ice."}
+
+{"ru": "В ночь на 29 апреля прошел 4-й матч первого раунда плей-офф НХЛ «Вашингтон Кэпиталз» — «Нью-Йорк Рейнджерс»", "en": "On the night of April 29th, the 4th match of the NHL playoff first round between the Washington Capitals and the New York Rangers took place."}
+{"ru": "Встреча завершилась победой «Рейнджерс» со счетом 4:2.", "en": "\"The match ended with a 4-2 victory for the Rangers.\""}
+{"ru": "Еще по голу забили Каапо Какко, Винсент Трочек и Джек Рослович", "en": "Kaapo Kakko, Vincent Trocheck and Jack Roslovic each scored another goal."}
+{"ru": "Голкипер Игорь Шестеркин отразил 21 бросок из 23.", "en": "Goalkeeper Igor Shesterkin saved 21 shots out of 23."}
+{"ru": "У «Кэпиталз» отличились Мартин Фехервари и Хендрикс Лапьер с передачи Александра Алексеева", "en": "Martin Fehervary and Hendrix Lapierre scored for the Capitals, with an assist from Alexander Alexeyev."}
+{"ru": "Капитан Александр Овечкин очков не набрал.", "en": "Captain Alexander Ovechkin did not score any points."}
+{"ru": "«Рейнджерс» выиграли серию со счетом 4-0.", "en": "The New York Rangers won the series with a score of 4-0."}
+{"ru": "В США состоялся 4-й матч 1/8 финала плей-офф НХЛ, в котором «Колорадо» ан своем льду победил «Виннипег» со счетом 5:1.", "en": "In the USA, the 4th match of the 1/8 finals of the NHL playoffs took place, in which the Colorado Avalanche defeated the Winnipeg Jets on their home ice with a score of 5:1."}
+{"ru": "В составе «Эвеланш» хет-трик оформил российский нападающий Валерий Ничушкин, отличившись на 32-й, 40-й и 69-й (пустые ворота) минутах", "en": "As part of the Avalanche, Russian forward Valeri Nichushkin scored a hat-trick, scoring at the 32nd, 40th, and 69th (empty net) minutes."}
+{"ru": "Его партнер Александр Георгиев отразил 25 бросков соперника из 26.", "en": "His partner Alexander Georgiev deflected 25 shots out of 26 by the opponent."}
